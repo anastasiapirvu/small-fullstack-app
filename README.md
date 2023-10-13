@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Small full-stack app to learn React, Next.js, Nest.js and TypeScript
